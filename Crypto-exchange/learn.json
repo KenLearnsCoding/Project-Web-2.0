@@ -1,0 +1,54 @@
+{
+    "data": [
+      {
+        "coin": "Bitcoin",
+        "introduction": "Bitcoin was developed at the peak of the global financial crisis in 2008 by the pseudonymous Satoshi Nakamoto. It was launched officially in January 2009. The first Bitcoin transaction was worth 10 BTC that Satoshi Nakamoto sent to Hal Finney, a developer and early Bitcoin adopter.",
+        "introduction2": "At its launch, Bitcoin’s value was almost negligible. It was more than a year later, in July 2010, that its price shot from US$0.0008 to US$0.08 per BTC. In the last ten years, Bitcoin’s price has increased by thousands of times. In December 2020, Bitcoin hit its all-time high of US$27,000.",
+        "founder": "Satoshi Nakamoto",
+        "launch_date": "January 3, 2009",
+        "quote": " It might make sense to take a little, if he holds it. If a sufficient number of people think like this, then this would be a self-fulfilling prophecy. "
+      },
+      {
+        "coin": "Ethereum",
+        "introduction": "Ethereum was developed as a potential solution to the shortcomings of the Bitcoin network and was proposed in 2013 by Vitalik Buterin. After initial feedback on the concept, Buterin and the founding team publicly announced its development in 2014. Soon after the announcement, Ethereum conducted a crowd sale of ETH and raised US$18.4 million for network developments and operations.",
+        "introduction2": "The founders launched the test version of the network, or testnet, in 2015. Almost a month after the launch of the testnet, they launched the first mainnet version of Ethereum on June 30, 2015. The fully functional Ethereum network was later launched in March 2016.",
+        "founder": "Vitalik Buterin",
+        "launch_date": "August 7, 2015",
+        "quote": " This idea of a blockchain with a built-in programming language as, kind of, what I thought was the simplest and kind of, most logical way to actually build a platform that can be used for many more kinds of applications. "
+      },
+        {
+            "coin": "Litecoin",
+            "introduction": "Litecoin (LTC), like many other altcoins, was developed to tackle the shortcomings of the first cryptocurrency, Bitcoin. It takes approximately 10 minutes to mine one new block of transactions on the Bitcoin network. Litecoin was proposed as a Bitcoin spinoff that would increase the transaction speed and solve the network’s scalability issue.",
+            "introduction2": "Charles Lee, a crypto pioneer and a former Google and Coinbase employee, launched Litecoin in 2011. Litecoin was able to reduce the block confirmation time from 10 minutes to only two and a half minutes.",
+            "founder": "Charlie Lee",
+            "launch_date": "April 28, 2013",
+            "quote": "  My vision is people would use Litecoin every day to buy things. It would just be the payment method of choice. "
+        },
+        {
+            "coin": "Ripple",
+            "introduction": "Ripple has a long history of 16 years, long before Satoshi Nakamoto released the first version of Bitcoin. Ryan Fugger founded Rippleplay, the original brand name of Ripple, to transact money around the world securely.",
+            "introduction2": "In 2012, Jed McCaleb, Arthur Britto, and David Schwartz bought the company and renamed it “OpenCoin” — the company was then renamed “Ripple Labs” in 2013. Two years later, they shortened the name to just “Ripple.",
+            "founder": "Jed McCaleb and Chris Larsen",
+            "launch_date": "August 4, 2013",
+            "quote": "  Enabling the world to move value like it moves information today.  "
+        },
+        {
+            "coin": "DogeCoin",
+            "introduction": "In 2013, an Australian marketer and software developer, Jackson Palmer, had the funny idea of combining two tabs open side-by-side on his computer screen. One was CoinMarketCap, a crypto stats website, and the other was an article on a popular meme about the Japanese Shiba Inu dog. He put together both the elements and sent out a tweet about a new cryptocurrency called Dogecoin.",
+            "introduction2": "Shortly afterward, an IBM developer, Billy Markus, approached Jackson on Twitter, asking if he would like to create an actual cryptocurrency named Dogecoin. Palmer agreed, and Dogecoin was officially launched on 6th December 2013. Later, both the founders stepped away from Dogecoin, leaving it entirely in community members’ hands.",
+            "founder": "Brock Pierce, Reeve Collins, and Craig Sellars",
+            "launch_date": "2014",
+            "quote": "  Dogecoin is a decentralized, peer-to-peer digital currency that enables you to easily send money online. Think of it as the internet currency."
+        },
+        {
+            "coin": "shiba inu",
+            "coin_name": "SHIBA INU",
+            "coin_explanation": " Shiba Inu ($SHIB) is a popular meme coin created as a “DogeCoin Killer.” It aims to build a truly decentralized ecosystem where cryptocurrencies can be safely traded. ",
+            "introduction": "Shiba Inu was conceptualized and created by an anonymous person(s), Ryoshi, who believed that the power of collective decentralization could surpass the age-old centralized institutions. From the very early days of the coin, the creators became known as the Shib Army, and this soon became the buzzword for the 120,000 SHIB fans who believed in the coin’s potential. Shiba Inu started from the ground up with an enthusiastic aim whose focus was transfixed on creating the best decentralized ecosystem on the planet.",  
+            "introduction2": "With this vision, the Shiba Inu token was launched in August 2020 as a part of a three token ecosystem. In a short span, SHIB saw some remarkable success and became the 20th biggest cryptocurrency this year. ShibSwap was also received well by the market and is currently running with a total volume of assets locked, surpassing $409 million.",
+            "founder": "Ryoshi",
+            "launch_date": "January 8, 2020",
+            "quote": "  Between its international recognition and its legitimate utility, SHIB is up thousands of times and is constantly expanding its reach. "
+        }
+    ]
+  }
